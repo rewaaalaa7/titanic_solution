@@ -1,9 +1,9 @@
 # Titanic: Using Multiple Algorithms
 
-Introduction
+# Introduction
 The sinking of the RMS Titanic is one of the most notorious maritime disasters in history. The Kaggle Titanic dataset provides information about the passengers onboard the Titanic, including whether they survived or not. In this notebook, we explore various machine learning algorithms to predict the survival outcome for passengers.
 
-Notebook Structure
+#Notebook Structure
 The notebook is structured as follows:
 
 1- Data Exploration and Preparation: 
@@ -23,7 +23,7 @@ The notebook is structured as follows:
 4-Model evaluation and comparison
 
 
-Dependencies
+#Dependencies
 The following dependencies are required to run the notebook:
 
 Python 3.x
@@ -34,8 +34,8 @@ Matplotlib
 Seaborn
 Scikit-learn
 XGBoost
-LightGBM
-Running the Notebook
+
+#Running the Notebook
 To run the notebook locally, follow these steps:
 
 1. Install the required dependencies mentioned above.
@@ -45,10 +45,10 @@ To run the notebook locally, follow these steps:
 5. Open the notebook file (titanic-using-multiple-algorithms.ipynb).
 6. Execute each cell in sequential order to reproduce the results.
 
-Acknowledgments
+#Acknowledgments
 This notebook is based on the Kaggle Titanic dataset and various machine learning algorithms. The code and analysis were provided by rewa77.
 
-References
+#References
 [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)https://xgboost.readthedocs.io/en/stable/
