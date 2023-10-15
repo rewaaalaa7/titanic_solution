@@ -1,5 +1,5 @@
-# titanic_solution-
-Titanic: Using Multiple Algorithms
+# titanic_solution
+# Titanic: Using Multiple Algorithms
 
 Introduction
 The sinking of the RMS Titanic is one of the most notorious maritime disasters in history. The Kaggle Titanic dataset provides information about the passengers onboard the Titanic, including whether they survived or not. In this notebook, we explore various machine learning algorithms to predict the survival outcome for passengers.
