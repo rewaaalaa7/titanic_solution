@@ -1,4 +1,3 @@
-# titanic_solution
 # Titanic: Using Multiple Algorithms
 
 Introduction
