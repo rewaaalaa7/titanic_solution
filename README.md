@@ -7,33 +7,35 @@ The sinking of the RMS Titanic is one of the most notorious maritime disasters i
 The notebook is structured as follows:
 
 1- Data Exploration and Preparation: 
-  -Loading the dataset
-  -Exploratory data analysis
-  -Handling missing values
-  -Feature engineering
+- Loading the dataset
+- Exploratory data analysis
+- Handling missing values
+- Feature engineering
+  
 2- Data Preprocessing:
-  -Encoding categorical variables
-  -Splitting the data into training and testing sets
+- Encoding categorical variables
+- Splitting the data into training and testing sets
+  
 3- Model Building and Evaluation:
-  -Decision Tree
-  -K-Nearest Neighbors
-  -Support Vector Machines
-  -Random Forest Classifier
-  -XGBoost Classifier 
+- Decision Tree
+- K-Nearest Neighbors
+- Support Vector Machines
+- Random Forest Classifier
+- XGBoost Classifier
+  
 4-Model evaluation and comparison
-
 
 # Dependencies
 The following dependencies are required to run the notebook:
 
 Python 3.x
-Jupyter Notebook
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-XGBoost
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
 
 # Running the Notebook
 To run the notebook locally, follow these steps:
