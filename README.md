@@ -49,7 +49,7 @@ To run the notebook locally, follow these steps:
 This notebook is based on the Kaggle Titanic dataset and various machine learning algorithms. The code and analysis were provided by rewa77.
 
 # References
-[Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-[Scikit-learn Documentation](https://scikit-learn.org/stable/)
-[XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)https://xgboost.readthedocs.io/en/stable/
-[LightGBM Documentation](https://lightgbm.readthedocs.io/en/stable/)https://lightgbm.readthedocs.io/en/stable/
+1- [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+2- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+3- [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)https://xgboost.readthedocs.io/en/stable/
+4- [LightGBM Documentation](https://lightgbm.readthedocs.io/en/stable/)https://lightgbm.readthedocs.io/en/stable/
